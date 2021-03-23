@@ -1,0 +1,10 @@
+{
+    "[html]": {
+        "editor.rulers": [
+            80,
+            100
+        ],
+        "rewrap.autoWrap.enabled": true,
+        "rewrap.wrappingColumn": 80
+    }
+}
